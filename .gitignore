@@ -11,4 +11,4 @@ wheels/
 
 # Project specific
 /ejemplos/
-/datos.csv
+/datos.*
