@@ -1,0 +1,15 @@
+[project]
+name = "pcd-prac-01"
+version = "0.1.0"
+description = "Práctica de PCD de Joaquin y Makar"
+readme = "README.md"
+authors = [
+    { name = "Joaquin", email = "joaquin.negrete@alumnos.upm.es" },
+    { name = "Makar Isaev", email = "m.isaev@alumnos.upm.es" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+]
